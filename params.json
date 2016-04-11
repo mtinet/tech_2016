@@ -1,6 +1,6 @@
 {
   "name": "Tech",
   "tagline": "",
-  "body": "---\r\n# 기술 수업 자료실\r\n---\r\n\r\n\r\n수업자료를 다운로드 받으려면 오른쪽의 !['Download ZIP File'](https://github.com/mtinet/tech/blob/master/button.png) 버튼을 누르세요. \r\n\r\n\r\n![하트](http://www.littlebear.dk/images/sangskjulerfoto/hjerte.jpg)\r\n\r\n\r\nlesson 4 on\r\n",
+  "body": "---\r\n# 기술 수업 자료실\r\n---\r\n\r\n\r\n수업자료를 다운로드 받으려면 오른쪽의 !['Download ZIP File'](https://raw.githubusercontent.com/mtinet/tech/gh-pages/images/button.png) 버튼을 누르세요. \r\n\r\n\r\n![하트](http://www.littlebear.dk/images/sangskjulerfoto/hjerte.jpg)\r\n\r\n\r\nlesson 4 on\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
