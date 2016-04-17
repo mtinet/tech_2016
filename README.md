@@ -8,7 +8,7 @@
 시험 범위
 ---
 
-Lesson 3 : What is Software?![비로소 세상의 모든것이 연결되다, 사물인터넷편](https://www.youtube.com/watch?v=s-hN_KOBaEQ)  
+Lesson 3 : What is Software? [비로소 세상의 모든것이 연결되다, 사물인터넷편](https://www.youtube.com/watch?v=s-hN_KOBaEQ)  
 Lesson 4 : Open Source SW & HW  
 Lesson 5 : Arduino IDE Install  
 Lesson 6 : Blink  
@@ -21,3 +21,11 @@ Lesson 10 : Pull Up, Pull Down Resistance, Electronic Circuit
 --- 
 강의 요약 영상
 ---
+[아두이노 보드의 구조](https://www.youtube.com/watch?v=NJaKUq4o9RE)
+[아두이노 IDE와 Blink](https://www.youtube.com/watch?v=_iOzubA6nsI)
+[아두이노 스케치 구조와 수정](https://www.youtube.com/watch?v=aNVlI3sE7RE)
+[브레드 보드 1](https://www.youtube.com/watch?v=aNVlI3sE7RE)
+[브레드 보드 2](https://www.youtube.com/watch?v=nDDynSRqwaA)
+[신호등 만들기 1](https://www.youtube.com/watch?v=nDDynSRqwaA)
+[신호등 만들기 2](https://www.youtube.com/watch?v=P501IHtrua8)
+
