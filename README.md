@@ -28,4 +28,7 @@ Lesson 10 : Pull Up, Pull Down Resistance, Electronic Circuit
 [브레드 보드 2](https://www.youtube.com/watch?v=nDDynSRqwaA)  
 [신호등 만들기 1](https://www.youtube.com/watch?v=nDDynSRqwaA)  
 [신호등 만들기 2](https://www.youtube.com/watch?v=P501IHtrua8)  
+[시리얼 모니터](https://www.youtube.com/watch?v=BYd7muRR1JA)  
+[풀업저항, 풀다운 저항, 저항띠 읽기](https://www.youtube.com/watch?v=VdrcKw5IzB4)  
+
 
