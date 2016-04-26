@@ -8,8 +8,8 @@
 시험 범위
 ---
 
-### Lesson 3 : What is Software? [비로소 세상의 모든것이 연결되다, 사물인터넷편](https://www.youtube.com/watch?v=s-hN_KOBaEQ)  
-## Lesson 4 : Open Source SW & HW  
+Lesson 3 : What is Software? [비로소 세상의 모든것이 연결되다, 사물인터넷편](https://www.youtube.com/watch?v=s-hN_KOBaEQ)  
+Lesson 4 : Open Source SW & HW  
 Lesson 5 : Arduino IDE Install  
 Lesson 6 : Blink  
 Lesson 7 : Traffic Sign 1  
@@ -34,5 +34,3 @@ Lesson 10 : Pull Up, Pull Down Resistance, Electronic Circuit
 ![쯔위](https://raw.githubusercontent.com/mtinet/tech/gh-pages/images/zzz.jpg)
 
 
-
-[프레젠테이션 연습](https://goo.gl/cKxZDY)
