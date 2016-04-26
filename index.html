@@ -1,44 +1,51 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
+    <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Tech by mtinet</title>
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/github-dark.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="javascripts/main.js"></script>
-    <!--[if lt IE 9]>
-      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=640">
 
+    <link rel="stylesheet" href="stylesheets/core.css" media="screen">
+    <link rel="stylesheet" href="stylesheets/mobile.css" media="handheld, only screen and (max-device-width:640px)">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+
+    <script type="text/javascript" src="javascripts/modernizr.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/javascript" src="javascripts/headsmart.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function () {
+        $('#main_content').headsmart()
+      })
+    </script>
+    <title>Tech by mtinet</title>
   </head>
+
   <body>
+    <a id="forkme_banner" href="https://github.com/mtinet/tech">View on GitHub</a>
+    <div class="shell">
 
       <header>
-        <h1>Tech</h1>
-        <p></p>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <h1>Tech</h1>
+            <h2></h2>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
       </header>
 
-      <div id="banner">
-        <span id="logo"></span>
+      <section id="downloads">
+        <span class="inner">
+          <a href="https://github.com/mtinet/tech/zipball/master" class="zip"><em>download</em> .ZIP</a><a href="https://github.com/mtinet/tech/tarball/master" class="tgz"><em>download</em> .TGZ</a>
+        </span>
+      </section>
 
-        <a href="https://github.com/mtinet/tech" class="button fork"><strong>View On GitHub</strong></a>
-        <div class="downloads">
-          <span>Downloads:</span>
-          <ul>
-            <li><a href="https://github.com/mtinet/tech/zipball/master" class="button">ZIP</a></li>
-            <li><a href="https://github.com/mtinet/tech/tarball/master" class="button">TAR</a></li>
-          </ul>
-        </div>
-      </div><!-- end banner -->
 
-    <div class="wrapper">
-      <nav>
-        <ul></ul>
-      </nav>
-      <section>
+      <span class="banner-fix"></span>
+
+
+      <section id="main_content">
         <hr>
 
 <h1>
@@ -53,9 +60,14 @@
 <h2>
 <a id="시험-범위" class="anchor" href="#%EC%8B%9C%ED%97%98-%EB%B2%94%EC%9C%84" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>시험 범위</h2>
 
-<p>Lesson 3 : What is Software? <a href="https://www.youtube.com/watch?v=s-hN_KOBaEQ">비로소 세상의 모든것이 연결되다, 사물인터넷편</a><br>
-Lesson 4 : Open Source SW &amp; HW<br>
-Lesson 5 : Arduino IDE Install<br>
+<h3>
+<a id="lesson-3--what-is-software-비로소-세상의-모든것이-연결되다-사물인터넷편" class="anchor" href="#lesson-3--what-is-software-%EB%B9%84%EB%A1%9C%EC%86%8C-%EC%84%B8%EC%83%81%EC%9D%98-%EB%AA%A8%EB%93%A0%EA%B2%83%EC%9D%B4-%EC%97%B0%EA%B2%B0%EB%90%98%EB%8B%A4-%EC%82%AC%EB%AC%BC%EC%9D%B8%ED%84%B0%EB%84%B7%ED%8E%B8" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Lesson 3 : What is Software? <a href="https://www.youtube.com/watch?v=s-hN_KOBaEQ">비로소 세상의 모든것이 연결되다, 사물인터넷편</a>
+</h3>
+
+<h2>
+<a id="lesson-4--open-source-sw--hw" class="anchor" href="#lesson-4--open-source-sw--hw" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Lesson 4 : Open Source SW &amp; HW</h2>
+
+<p>Lesson 5 : Arduino IDE Install<br>
 Lesson 6 : Blink<br>
 Lesson 7 : Traffic Sign 1<br>
 Lesson 8 : Traffic Sign 2<br>
@@ -76,13 +88,24 @@ Lesson 10 : Pull Up, Pull Down Resistance, Electronic Circuit  </p>
 <a href="https://www.youtube.com/watch?v=P501IHtrua8">신호등 만들기 2</a><br>
 <a href="https://www.youtube.com/watch?v=BYd7muRR1JA">시리얼 모니터</a><br>
 <a href="https://www.youtube.com/watch?v=VdrcKw5IzB4">풀업저항, 풀다운 저항, 저항띠 읽기</a>  </p>
+
+<p><img src="https://github.com/mtinet/tech/blob/gh-pages/images/zzz.jpg" alt="쯔위"></p>
       </section>
+
       <footer>
-        <p>Project maintained by <a href="https://github.com/mtinet">mtinet</a></p>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <p>this project by <a href="https://github.com/mtinet">mtinet</a> can be found on <a href="https://github.com/mtinet/tech">GitHub</a></p>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+        <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Merlot</p>
+        <span class="octocat"></span>
       </footer>
+
     </div>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+
     
   </body>
 </html>
