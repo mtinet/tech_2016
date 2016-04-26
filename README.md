@@ -32,4 +32,7 @@ Lesson 10 : Pull Up, Pull Down Resistance, Electronic Circuit
 [풀업저항, 풀다운 저항, 저항띠 읽기](https://www.youtube.com/watch?v=VdrcKw5IzB4)  
 
 ![쯔위](https://raw.githubusercontent.com/mtinet/tech/gh-pages/images/zzz.jpg)
-gg
+
+
+
+[프레젠테이션 연습](https://goo.gl/cKxZDY)
