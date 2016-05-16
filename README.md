@@ -11,7 +11,7 @@
 
 
 --- 
-## 중간고사 시험 범위
+중간고사 시험 범위
 ---
 
 Lesson 3 : What is Software? [비로소 세상의 모든것이 연결되다, 사물인터넷편](https://www.youtube.com/watch?v=s-hN_KOBaEQ)  
@@ -25,7 +25,7 @@ Lesson 10 : Pull Up, Pull Down Resistance, Electronic Circuit
 
 
 --- 
-## 중간고사 대비 강의 요약 영상
+중간고사 대비 강의 요약 영상
 ---
 [아두이노 보드의 구조](https://www.youtube.com/watch?v=NJaKUq4o9RE)  
 [아두이노 IDE와 Blink](https://www.youtube.com/watch?v=_iOzubA6nsI)  
