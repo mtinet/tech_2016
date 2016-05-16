@@ -5,7 +5,7 @@
 수업자료를 다운로드 받으려면 오른쪽의 !['Download ZIP File'](https://raw.githubusercontent.com/mtinet/tech/gh-pages/images/button.png) 버튼을 누르세요. 
 
 --- 
-## 평가 계획
+평가 계획
 ---
 [2016학년도 기술 교과 평가 계획](https://docs.google.com/document/d/1zxwW3d9tsM2VzsqXCZo85H4P8DWhpoxKFneuiCAGbQ8/edit?usp=sharing)
 
