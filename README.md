@@ -5,7 +5,13 @@
 수업자료를 다운로드 받으려면 오른쪽의 !['Download ZIP File'](https://raw.githubusercontent.com/mtinet/tech/gh-pages/images/button.png) 버튼을 누르세요. 
 
 --- 
-## 1학기 중간고사 시험 범위
+## 평가 계획
+---
+[2016학년도 기술 교과 평가 계획](https://docs.google.com/document/d/1zxwW3d9tsM2VzsqXCZo85H4P8DWhpoxKFneuiCAGbQ8/edit?usp=sharing)
+
+
+--- 
+## 중간고사 시험 범위
 ---
 
 Lesson 3 : What is Software? [비로소 세상의 모든것이 연결되다, 사물인터넷편](https://www.youtube.com/watch?v=s-hN_KOBaEQ)  
@@ -19,7 +25,7 @@ Lesson 10 : Pull Up, Pull Down Resistance, Electronic Circuit
 
 
 --- 
-## 1학기 중간고사 대비 강의 요약 영상
+## 중간고사 대비 강의 요약 영상
 ---
 [아두이노 보드의 구조](https://www.youtube.com/watch?v=NJaKUq4o9RE)  
 [아두이노 IDE와 Blink](https://www.youtube.com/watch?v=_iOzubA6nsI)  
@@ -31,8 +37,5 @@ Lesson 10 : Pull Up, Pull Down Resistance, Electronic Circuit
 [시리얼 모니터](https://www.youtube.com/watch?v=BYd7muRR1JA)  
 [풀업저항, 풀다운 저항, 저항띠 읽기](https://www.youtube.com/watch?v=VdrcKw5IzB4)  
 
---- 
-## 1학기 수행평가 평가 계획
----
-[1학기 수행평가 계획](https://docs.google.com/document/d/1zxwW3d9tsM2VzsqXCZo85H4P8DWhpoxKFneuiCAGbQ8/edit?usp=sharing)
+
 
