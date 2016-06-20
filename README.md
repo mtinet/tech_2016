@@ -63,12 +63,12 @@ Lesson 10 : Pull Up, Pull Down Resistance, Electronic Circuit
 --- 
 Lesson 11 : PWM, for, while 
 Lesson 12 : if, switch, map 
-수행평가 1 :  
-수행평가 1 :  
-수행평가 1 :  
-수행평가 1 :  
-수행평가 1 :  
-수행평가 1 :  
+수행평가 1 : Team Building  
+수행평가 2 : Image, Sketch
+수행평가 3 : Flowchart  
+수행평가 4 : Schematic  
+수행평가 5,6 : Prototyping 1, 2  
+수행평가 7 : Symbol, Table, Graph, Presentation  
 
 
 ---
