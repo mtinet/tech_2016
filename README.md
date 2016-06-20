@@ -61,9 +61,14 @@ Lesson 10 : Pull Up, Pull Down Resistance, Electronic Circuit
 ---
 기말고사 시험범위  
 --- 
-Lesson 11 :  
-Lesson 12 :  
-수행평가 :  
+Lesson 11 : PWM, for, while 
+Lesson 12 : if, switch, map 
+수행평가 1 :  
+수행평가 1 :  
+수행평가 1 :  
+수행평가 1 :  
+수행평가 1 :  
+수행평가 1 :  
 
 
 ---
