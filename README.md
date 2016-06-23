@@ -56,7 +56,7 @@ Lesson 10 : Pull Up, Pull Down Resistance, Electronic Circuit
 - 총 페이지는 최소 3쪽, 최대 10쪽을 모자라거나 넘으면 안됨   
 - 사진, 움짤, 동영상 자료는 직접 첨부하거나 링크로 첨부   
 - 양식은 자유이며, 정성껏 작성바람.  
-- 마감된 포트폴리오 피드백은 [https://1drv.ms/x/s!AuczxMq8lCmfoU8dRR73oPhYnlPr](https://1drv.ms/x/s!AuczxMq8lCmfoU8dRR73oPhYnlPr)에서 확인하세요.  
+- 마감된 포트폴리오 피드백은 [https://goo.gl/4G6b9g](https://goo.gl/4G6b9g)에서 확인하세요.  
 
 
 ---
