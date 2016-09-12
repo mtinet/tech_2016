@@ -11,12 +11,15 @@
 [2016학년도 기술 교과 평가 계획](https://docs.google.com/document/d/1zxwW3d9tsM2VzsqXCZo85H4P8DWhpoxKFneuiCAGbQ8/edit?usp=sharing)
   
 
+---
+1학기
+---
 
 --- 
 중간고사 시험 범위
 ---
 
-Lesson 3 : What is Software? [비로소 세상의 모든것이 연결되다, 사물인터넷편](https://www.youtube.com/watch?v=s-hN_KOBaEQ)  
+Lesson 3 : What is IoT? [비로소 세상의 모든것이 연결되다, 사물인터넷편](https://www.youtube.com/watch?v=s-hN_KOBaEQ)  
 Lesson 4 : Open Source SW & HW  
 Lesson 5 : Arduino IDE Install  
 Lesson 6 : Blink  
@@ -78,3 +81,18 @@ Lesson 12 : if, switch, map
 [PWM, for문, while문](https://www.youtube.com/watch?v=Nx6w0iCuhSc)  
 [if문, switch문, map함수](https://www.youtube.com/watch?v=zXINLq52imQ)  
 [수행평가 부연설명](https://youtu.be/pOztwMxEoKA)  
+
+
+
+---
+2학기
+---
+
+---
+중간고사 시험범위
+---
+
+Lesson 1 : Software([세상의 시작과 끝, 소프트웨어 편](https://youtu.be/i7Aks0L80lM)
+Lesson 2 : Library, Servo.pptx
+Lesson 3 : Random, RGB LED
+
