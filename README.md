@@ -92,7 +92,7 @@ Lesson 12 : if, switch, map
 중간고사 시험범위
 ---
 
-Lesson 1 : Software([세상의 시작과 끝, 소프트웨어 편](https://youtu.be/i7Aks0L80lM)  
+Lesson 1 : Software([세상의 시작과 끝, 소프트웨어 편](https://youtu.be/i7Aks0L80lM))  
 Lesson 2 : Library, Servo  
 Lesson 3 : Random, RGB LED  
 
