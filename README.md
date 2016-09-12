@@ -93,8 +93,8 @@ Lesson 12 : if, switch, map
 ---
 
 Lesson 1 : Software([세상의 시작과 끝, 소프트웨어 편](https://youtu.be/i7Aks0L80lM))  
-Lesson 2 : Library, Servo  
-Lesson 3 : Random, RGB LED  
+Lesson 2 : Library, Servo [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfpxog9v-oUwABDFD0)  
+Lesson 3 : Random, RGB LED [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfpxvHjuH3DAqs4wQF)
 
 ---
 기말고사 대비 강의 요약 영상  
