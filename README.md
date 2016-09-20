@@ -97,7 +97,10 @@ Lesson 2 : Library, Servo - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfp
 Lesson 3 : Random, RGB LED - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfpxvHjuH3DAqs4wQF)  
 
 ---
-기말고사 대비 강의 요약 영상  
+중간고사 대비 강의 요약 영상  
 ---
+[Library, Servo Motor](https://youtu.be/1IoolB2ZYEM)  
+[random, RGB LED](https://youtu.be/pHGN-b2Gey8)  
+
 
 
