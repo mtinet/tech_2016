@@ -20,13 +20,13 @@
 ---
 
 Lesson 3 : What is IoT? [비로소 세상의 모든것이 연결되다, 사물인터넷편](https://www.youtube.com/watch?v=s-hN_KOBaEQ)  
-Lesson 4 : Open Source SW & HW  
-Lesson 5 : Arduino IDE Install  
-Lesson 6 : Blink  
-Lesson 7 : Traffic Sign 1  
-Lesson 8 : Traffic Sign 2  
-Lesson 9 : Sensing-Processing-Actuating, Serial Monitor  
-Lesson 10 : Pull Up, Pull Down Resistance, Electronic Circuit  
+Lesson 4 : Open Source SW & HW - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfpnibo9Phy8tzm047)    
+Lesson 5 : Arduino IDE Install - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfpnr4zjCrBAp-GT04)    
+Lesson 6 : Blink - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfpnk9R3MPre5z7KAR)    
+Lesson 7 : Traffic Sign 1 - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfpntJSPpHSQ6iwwVC)    
+Lesson 8 : Traffic Sign 2 - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfpntJSPpHSQ6iwwVC)   
+Lesson 9 : Sensing-Processing-Actuating, Serial Monitor - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfpnzuWhqIrIeLL34a)    
+Lesson 10 : Pull Up, Pull Down Resistance, Electronic Circuit - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfpn08Nvq1hqzCByFD)    
 
 
 --- 
@@ -65,14 +65,14 @@ Lesson 10 : Pull Up, Pull Down Resistance, Electronic Circuit
 ---
 기말고사 시험범위  
 --- 
-Lesson 11 : PWM, for, while   
-Lesson 12 : if, switch, map   
-수행평가 1 : Team Building    
-수행평가 2 : Image, Sketch  
-수행평가 3 : Flowchart      
-수행평가 4 : Schematic    
-수행평가 5,6 : Prototyping 1, 2    
-수행평가 7 : Symbol, Table, Graph, Presentation    
+Lesson 11 : PWM, for, while - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfoUiFTj9D5HMFqz7z)     
+Lesson 12 : if, switch, map - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfoUkRbsi9ZQEm8eFG)     
+수행평가 1 : Team Building - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfoTmcfyI_gE6VjAbt)      
+수행평가 2 : Image, Sketch - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfoHUz1k3rTkXFKVMt)   
+수행평가 3 : Flowchart - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfoTagn0nDeijq_7PI)        
+수행평가 4 : Schematic - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfoTdj9_mZ2D_bfTb2)      
+수행평가 5,6 : Prototyping 1, 2 - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfoTqC-zFE3aNHteOU)      
+수행평가 7 : Symbol, Table, Graph, Presentation - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfoTjHS2Ju0ABJEsUL)      
 
 
 ---
