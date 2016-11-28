@@ -80,9 +80,11 @@ Lesson 12 : if, switch, map - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCm
 [PWM, for문, while문](https://www.youtube.com/watch?v=Nx6w0iCuhSc)  
 [if문, switch문, map함수](https://www.youtube.com/watch?v=zXINLq52imQ)  
 [수행평가 부연설명](https://youtu.be/pOztwMxEoKA)  
-
-
-
+  
+  
+  
+  
+  
 ---
 2학기
 ---
@@ -121,5 +123,5 @@ Lesson 3 : Random, RGB LED - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmf
 
 
 ---
-기고사 대비 강의 요약 영상  
+기말고사 대비 강의 요약 영상  
 ---
