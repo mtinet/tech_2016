@@ -125,4 +125,7 @@ Lesson 3 : Random, RGB LED - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmf
 ---
 기말고사 대비 강의 요약 영상  
 ---
-준비중
+
+[code.org](https://youtu.be/eJswOnaMwr8)  
+[3D print](https://youtu.be/Fd_UWICvXOA)  
+[Array, Dot Matrix Module](https://youtu.be/xP8yFE9NYi4)  
