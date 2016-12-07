@@ -123,6 +123,16 @@ Lesson 3 : Random, RGB LED - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmf
 
 
 ---
+기말고사 시험범위
+---
+
+Lesson 1 : code.org([사이트 링크](https://code.org))  
+Lesson 2 : 3D Print(교재 확인)
+Lesson 3 : Array, Dot Matrix Module - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfpx6v4uqvDb1mD1et)  
+
+
+
+---
 기말고사 대비 강의 요약 영상  
 ---
 
